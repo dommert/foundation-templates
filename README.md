@@ -10,7 +10,7 @@ Feel free to help contribute layouts or themes. We are trying to collect generic
 Information
 ====================
 
-The *templates/* folder has basic generic layouts and templates to build off of.
+The *templates/* folder has basic generic layouts and templates to build off of. Use '_start.html' to begin a new layout.
 
 *Themes/* folder has prebuilt themes. Place your theme inside its own folder. Each theme has prebuilt layouts and css to extend or over right foundation defaults. 
 Theme Layouts Required
