@@ -27,7 +27,7 @@ Templates
 * 
 
 Navigation Styles
-=================
+=============+
 * Top Nav - Dropdown
 * Side Nav - Accordian
 * Side Nav - Buttons
