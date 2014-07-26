@@ -3,13 +3,20 @@ foundation-templates
 https://dommert.github.io/foundation-templates/
 
 
-Zurb Foundation Templates and Layouts
+Templates based on Zerb's Foundation
 
-Creating different page layouts and templates for foundation.  
-Place designs in the templates folder.
+Feel free to help contribute layouts or themes. We are trying to collect generic layouts and then built custom themes off layouts. We figure with enough developers we'll be able to create a good starting point for any website or project. 
 
-Everyone is welcome to fork and add to the project. Pull request if you add anything cool. Looking for basic layouts and templates, not full made themes.
+Information
+====================
 
+The *templates/* folder has basic generic layouts and templates to build off of.
+
+*Themes/* folder has prebuilt themes. Place your theme inside its own folder. Each theme has prebuilt layouts and css to extend or over right foundation defaults. 
+Theme Layouts Required
+* Frontpage
+* One Column
+* Two Column
 
 Templates
 ==============
@@ -19,7 +26,7 @@ Templates
 * Three Column (Middle / Even)
 * 
 
-Navigation
+Navigation Styles
 =============+
 * Top Nav - Dropdown
 * Side Nav - Accordian
